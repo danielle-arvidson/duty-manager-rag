@@ -6,7 +6,7 @@ All 13 records are mock documents I wrote. No real organisation's data is used.
 
 ## Background
 
-I first built this idea as a Claude Project prototype for a job interview: a tool that keeps the reasoning behind past operational decisions from being lost when staff leave. A Claude Project hides the retrieval step, so I couldn't test it. This repo rebuilds it as a pipeline I control and can measure.
+I first built this idea as the final-stage task for the AI & Innovation Lead role at Blenheim Palace: a tool that keeps the reasoning behind past operational decisions from being lost when staff leave. The records in this repo are invented for this exercise. They are not based on Blenheim data, and the incidents in them did not happen.
 
 ## How it works
 
